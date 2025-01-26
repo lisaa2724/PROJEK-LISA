@@ -1,0 +1,14 @@
+Projek website sederhana
+Cara Instalasi :
+1. Unduh semua file di github simpan di folder xampp->htdocs dalam folder baru misalnya inventaris
+2. ⁠Buka folder db kemudian import file inventaris.sql di phpmyadmin
+3. ⁠Jalankan file di chrome
+4. ⁠Untuk mengakses website lakukan login terlebih dahulu
+- Login sebagai Admin : 
+Username = Admin  Pw = 123456
+
+- Login sebagai Staff
+Username = staff Pw = 222222
+
+- Login sebagai pengunjung
+Username = pengunjung Pw = 112233
